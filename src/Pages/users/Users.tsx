@@ -1,8 +1,8 @@
 import React from 'react';
-import './home.scss';
+import './users.scss';
 
-const Home = () => {
-  return <div className='home'>Home</div>;
+const Users = () => {
+  return <div className='users'>Users</div>;
 };
 
-export default Home;
+export default Users;
